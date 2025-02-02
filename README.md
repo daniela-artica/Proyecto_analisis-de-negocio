@@ -17,7 +17,7 @@ Insights and recommendations are provided on the following key areas:
 ![Descripción](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/tasa%20de%20retencion%20proyecto%20marketing.png)
 
 - The distribution of visits over time is highly variable. There is a noticeable increase in daily, weekly, and monthly visits toward the end of 2017, with a peak of user activity on November, likely driven by seasonal trends. This pattern indicates that user engagement may be influenced by seasonal factors
-(gráficos)
+![Descripción](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/nro_usuarios_mes.png)
 
 - User engagement on the webpage appears to be minimal, with an average session length (ASL) of just 1 minute and a visit frequency of 1.08 times per day. This suggests that users spend very little time interacting with the content and may not be deeply engaged.
 
