@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
 - Overall, user retention across all cohorts is quite low from the first month, with only 4% to 8% of users returning to the platform. Retention continues to decline over the following months, and by the end of the customer lifecycle, most cohorts have a retention rate of approximately 2%. This suggests a significant drop-off in user engagement over time, indicating potential issues with long-term user retention and the need for strategies to improve sustained engagement.
 (mapa de calor)
 
-![Descripción](images/tasa_de_retencion_proyecto_marketing.png)
+![Descripción](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/tasa%20de%20retencion%20proyecto%20marketing.png)
 
 - The distribution of visits over time is highly variable. There is a noticeable increase in daily, weekly, and monthly visits toward the end of 2017, with a peak of user activity on November, likely driven by seasonal trends. This pattern indicates that user engagement may be influenced by seasonal factors
 (gráficos)
