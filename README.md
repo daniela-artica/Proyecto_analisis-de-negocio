@@ -29,7 +29,6 @@ Insights and recommendations are provided on the following key areas:
 - On average, customers contribute between $3 to $6 in revenue during their first month. However, most cohorts do not continue making purchases in subsequent months, or the increase in revenue over time is minimal.  Additionally, the first cohort (June 2017) demonstrates a steady increase in contribution over time, accumulating an average of $11.8.
 ![Descripción](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/LTV_cohortes.png)
 
-
 **Marketing analysis**
 
 - Source
