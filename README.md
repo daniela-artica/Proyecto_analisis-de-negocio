@@ -26,7 +26,8 @@ Insights and recommendations are provided on the following key areas:
 
 **Marketing analysis**
 
-
--   la fuente 5 es la que tiene menor tiempo de conversión promedio, A su vez, las fuentes 1 y 2 son las que generan más ingresos promedio por compra y no tienen un tiempo de conversión tan alto,
+- Source
+- The heatmap indicates that acquisition Source 3 had the highest spending, especially in the last three months, with monthly expenses ranging between $15,737 and $17,025. 
+-   la fuente 5 es la que tiene menor tiempo de conversión promedio. A su vez, las fuentes 1 y 2 son las que generan más ingresos promedio por compra y no tienen un tiempo de conversión tan alto,
 -   
 -   el ROMI demuestra que ninguna de las fuentes de adquisición ha estado cerca de recuperar su inversión a excepción del primer mes,
