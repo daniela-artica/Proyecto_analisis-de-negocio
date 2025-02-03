@@ -6,7 +6,12 @@ Insights and recommendations are provided on the following key areas:
 - Product analysis: user activity assessment on a daily, weekly and monthly basis as well as average session lenght (ASL) and retention rate analysis
 - Sales analysis: analysis of metrics like lead time and cohort analysis of life time value (LTV) and average revenue per user
 - Marketing analysis: expense analysis (overall, per source and over time), analysis of CAC and ROMI metrics
-  
+
+## Used tools
+- **Programming language**: Python
+- **Development environment:** Jupyter Notebook
+- **Libraries:** Pandas, Numpy, Matplotlib, Seaborn
+
 ## Executive summary
 
 **Product analysis**
