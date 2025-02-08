@@ -37,7 +37,8 @@ Insights and recommendations are provided on the following key areas:
 **Marketing analysis**
 
 - Most acquisition sources come close to breaking even on marketing costs within the first month of the customer lifecycle, with sources 9 and 10 fully recovering their investment. However, after the first month, none of the sources manage to recover their costs, highlighting potential issues with long-term profitability and customer retention. This suggests a need to refine retention strategies or adjust marketing budget allocation.
-  
+
+[Descripción](images/romi.png)
 - The ad source that incurred the most cost was source 3. However, The Customer Acquisition Cost (CAC) for source 3 exceeds $13, indicating that this advertising source is proving to be less profitable.
 
 
