@@ -17,7 +17,6 @@ Insights and recommendations are provided on the following key areas:
 **Product analysis**
 
 - Overall, user retention across all cohorts is quite low from the first month, with only 4% to 8% of users returning to the platform. Retention continues to decline over the following months, and by the end of the customer lifecycle, most cohorts have a retention rate of approximately 2%. This suggests a significant drop-off in user engagement over time, indicating potential issues with long-term user retention and the need for strategies to improve sustained engagement.
-(mapa de calor)
 
 ![Descripción](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/tasa%20de%20retencion%20proyecto%20marketing.png)
 
@@ -37,3 +36,16 @@ Insights and recommendations are provided on the following key areas:
 
 **Marketing analysis**
 
+- Most acquisition sources come close to breaking even on marketing costs within the first month of the customer lifecycle, with sources 9 and 10 fully recovering their investment. However, after the first month, none of the sources manage to recover their costs, highlighting potential issues with long-term profitability and customer retention. This suggests a need to refine retention strategies or adjust marketing budget allocation.
+  
+- The ad source that incurred the most cost was source 3. However, The Customer Acquisition Cost (CAC) for source 3 exceeds $13, indicating that this advertising source is proving to be less profitable.
+
+
+## Recommendations
+1. It is recommended to stop investing on advertising source 3, as its high Customer Acquisition Cost (CAC) is not only failing to generate profits but is actually causing losses for the company. Redirecting the budget to more cost-effective channels could improve overall marketing efficiency and profitability.
+   
+2. It is recommended to increase the investment on advertising sources 1,2 and 5 as they generate the highest average revenue per purchase and have a relatively short conversion time.
+   
+3. It is recommended to implement changes to the website design or other measures that encourage users to spend more time exploring the services offered. This could help increase engagement and improve conversion rates.
+
+4. The first cohort shows a sustained increase in both the number of orders and the revenue they generate throughout the entire customer lifecycle. Therefore, it is recommended to continue implementing loyalty strategies to retain and maximize the value of these customers.
