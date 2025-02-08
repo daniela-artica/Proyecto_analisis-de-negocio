@@ -42,6 +42,7 @@ Insights and recommendations are provided on the following key areas:
 
 - The ad source that incurred the most cost was source 3. However, The Customer Acquisition Cost (CAC) for source 3 exceeds $13, indicating that this advertising source is proving to be less profitable.
 
+![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/marketing%20costs.png)
 
 ## Recommendations
 1. It is recommended to stop investing on advertising source 3, as its high Customer Acquisition Cost (CAC) is not only failing to generate profits but is actually causing losses for the company. Redirecting the budget to more cost-effective channels could improve overall marketing efficiency and profitability.
