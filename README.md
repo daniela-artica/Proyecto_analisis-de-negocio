@@ -44,6 +44,8 @@ Insights and recommendations are provided on the following key areas:
 
 ![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/marketing%20costs.png)
 
+![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/CAC%20per%20source.png)
+
 ## Recommendations
 1. It is recommended to stop investing on advertising source 3, as its high Customer Acquisition Cost (CAC) is not only failing to generate profits but is actually causing losses for the company. Redirecting the budget to more cost-effective channels could improve overall marketing efficiency and profitability.
    
