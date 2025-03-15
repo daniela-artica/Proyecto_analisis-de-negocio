@@ -36,20 +36,24 @@ Insights and recommendations are provided on the following key areas:
 
 **Marketing analysis**
 
-- Most acquisition sources come close to breaking even on marketing costs within the first month of the customer lifecycle, with sources 9 and 10 fully recovering their investment. However, after the first month, none of the sources manage to recover their costs, highlighting potential issues with long-term profitability and customer retention. This suggests a need to refine retention strategies or adjust marketing budget allocation.
-
-![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/romi.png)
-
-- The ad source that incurred the most cost was source 3. However, The Customer Acquisition Cost (CAC) for source 3 exceeds $13, indicating that this advertising source is proving to be less profitable.
+- The ad source that incurred the most cost was source 3. However, The Customer Acquisition Cost (CAC) for source 3 exceeds $13, indicating that this advertising source is proving to be less profitable. 
 
 ![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/marketing%20costs.png)
 
+However, monthly CAC analysis also reveals that source 4 is also ineficient and had disproportionate costs in relation to the customers acquired. 
+
 ![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/CAC%20per%20source.png)
+
+- The cumulative ROMI analysis over time reveals that sources 9 and 10 quickly recover their investment, even doubling it. In contrast, sources 2 and 3 are the least profitable, with cumulative returns of 0.77 and 0.69, respectively.
+![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/romi%202.png)
+
+
+
 
 ## Recommendations
 1. It is recommended to stop investing on advertising source 3, as its high Customer Acquisition Cost (CAC) is not only failing to generate profits but is actually causing losses for the company. Redirecting the budget to more cost-effective channels could improve overall marketing efficiency and profitability.
    
-2. It is recommended to increase the investment on advertising sources 1,2 and 5 as they generate the highest average revenue per purchase and have a relatively short conversion time.
+2. It is recommended to prioritize the investment on advertising sources 9 and 10 as they generate more return of investment in a shor period of time and have a low acquisition cost.
    
 3. It is recommended to implement changes to the website design or other measures that encourage users to spend more time exploring the services offered. This could help increase engagement and improve conversion rates.
 
