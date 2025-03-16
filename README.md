@@ -40,7 +40,7 @@ Insights and recommendations are provided on the following key areas:
 
 <p align="center">
   <img src="https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/marketing%20costs.png?raw=true" alt="Marketing costs" width="45%" style="margin: 10px;">
-  <img src="https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/CAC%20per%20source.png?raw=true" alt=" Global CAC per source" width="45%" style="margin: 10px;">
+  <img src="https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/CAC%20per%20source.png?raw=true" alt=" Global CAC per source" width="42%" style="margin: 10px;">
 </p>
 
 
