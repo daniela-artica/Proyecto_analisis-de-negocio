@@ -38,7 +38,11 @@ Insights and recommendations are provided on the following key areas:
 
 - The ad source that incurred the most cost was source 3. However, The Customer Acquisition Cost (CAC) for source 3 exceeds $13, indicating that this advertising source is proving to be less profitable. 
 
-![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/CAC%20per%20source.png)
+<p align="center">
+  <img src="https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/marketing%20costs.png?raw=true" alt="Marketing costs" width="45%" style="margin: 10px;">
+  <img src="https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/CAC%20per%20source.png?raw=true" alt=" Global CAC per source" width="45%" style="margin: 10px;">
+</p>
+
 
 However, monthly CAC analysis also reveals that source 4 is also ineficient and had disproportionate costs in relation to the customers acquired. 
 
@@ -47,7 +51,9 @@ However, monthly CAC analysis also reveals that source 4 is also ineficient and 
 - The cumulative ROMI analysis over time reveals that sources 9 and 10 quickly recover their investment, even doubling it. In contrast, sources 2 and 3 are the least profitable, with cumulative returns of 0.77 and 0.69, respectively.
 ![Descripcion](https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/romi%202.png)
 
-https://github.com/daniela-artica/Proyecto_analisis-de-negocio/blob/main/images/marketing%20costs.png?raw=true
+
+
+
 
 
 ## Recommendations
